@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.uy1.info.GestionNote.GestionNoteApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 43.381 s - in com.uy1.info.GestionNote.GestionNoteApplicationTests
